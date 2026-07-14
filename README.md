@@ -270,36 +270,6 @@ SKU-level demand forecasting using ARIMA + XGBoost on 12 months of sales data to
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════════
-     GITHUB ANALYTICS
-     ══════════════════════════════════════════════════════════════ -->
-
----
-
-### 📊 &nbsp;GitHub Analytics
-
-<br/>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=hemalsureja&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=2EA043&text_color=F0F6FC&include_all_commits=true&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemalsureja&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=F0F6FC&langs_count=8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemalsureja&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=2EA043&fire=F2C811&currStreakLabel=F0F6FC&sideLabels=F0F6FC&dates=A8C8F8" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=hemalsureja&theme=github-compact&bg_color=0D1117&color=58A6FF&line=2EA043&point=F2C811&hide_border=true" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════════
      PROFESSIONAL TIMELINE
      ══════════════════════════════════════════════════════════════ -->
 
@@ -373,7 +343,7 @@ Jul 2025 ─▶ Jr. Data Analyst @ Dermatouch  ◀── CURRENT
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hemalsureja)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hemalsureja)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hemalsureja69)
 
 <br/>
 
