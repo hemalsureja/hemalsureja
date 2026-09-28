@@ -14,7 +14,7 @@
 
 <!-- ── TYPING LINE ─────────────────────────────────────────────── -->
 <a href="https://github.com/hemalsureja">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=55&lines=%3E+SELECT+insight+FROM+chaos%3B;Data+Analyst+%E2%80%A2+Jr.+Data+Scientist+%40+Dermatouch;Forecasting+demand.+Catching+billing+leaks.;%F0%9F%8F%86+Analytics+ACE+Award+%E2%80%94+Synergy+2026;Python+%E2%80%A2+SQL+%E2%80%A2+XGBoost+%E2%80%A2+Power+BI;Open+to+DA+%26+DS+roles+%E2%80%94+let's+talk+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&width=760&height=55&lines=%3E+SELECT+insight+FROM+chaos%3B;Data+Analyst+%E2%80%A2+Data+Scientist+%40+Dermatouch;Forecasting+demand.+Catching+billing+leaks.;%F0%9F%8F%86+Analytics+ACE+Award+%E2%80%94+Synergy+2026;Python+%E2%80%A2+SQL+%E2%80%A2+XGBoost+%E2%80%A2+Power+BI;Open+to+DA+%26+DS+roles+%E2%80%94+let's+talk+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- ── BADGES ──────────────────────────────────────────────────── -->
@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=hemalsureja&style=for-the-badge&color=1558B0&label=PROFILE+VIEWS" />
 </p>
 
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20DATA%20ANALYST%20%26%20JR.%20DATA%20SCIENTIST%20ROLES-2EA043?style=flat-square&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20DATA%20ANALYST%20%26%20DATA%20SCIENTIST%20ROLES-2EA043?style=flat-square&labelColor=0D1117" />
 
 </div>
 
@@ -304,7 +304,7 @@ gitGraph
 ## 🎯 &nbsp;Recruiter corner
 
 ```sql
--- Looking for your next Data Analyst / Jr. Data Scientist?
+-- Looking for your next Data Analyst / Data Scientist?
 SELECT  name, role, superpower
 FROM    candidates
 WHERE   skills   @> ARRAY['Python','SQL','Power BI','ML']
@@ -317,7 +317,7 @@ LIMIT   1;
 -- ┌───────────────┬──────────────────────────────┬─────────────────────────────┐
 -- │ name          │ role                         │ superpower                  │
 -- ├───────────────┼──────────────────────────────┼─────────────────────────────┤
--- │ Hemal Sureja  │ Data Analyst / Jr. DS        │ finds the ₹ in the data     │
+-- │ Hemal Sureja  │ Data Analyst / Data Scientist│ finds the ₹ in the data     │
 -- └───────────────┴──────────────────────────────┴─────────────────────────────┘
 -- (1 row)  ✅  Execution time: 1 message on LinkedIn
 ```
