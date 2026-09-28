@@ -52,7 +52,7 @@ class HemalSureja(DataPerson):
     """Mathematician by training, analyst by trade,
        ML engineer by obsession."""
 
-    role       = ["Jr. Data Analyst", "Jr. Data Scientist"]
+    role       = ["Data Analyst", "Data Scientist"]
     company    = "Dermatouch · D2C Skincare"
     base       = "Ahmedabad, India  (remote-friendly)"
     education  = "M.Sc. Big Data Analytics · B.Sc. Mathematics"
@@ -66,7 +66,7 @@ class HemalSureja(DataPerson):
         return "finding the ₹ hiding inside the spreadsheet"
 
     def next_move(self):
-        return "Data Analyst / Jr. DS role → let's talk 👋"
+        return "Data Analyst / Data Scientist role → let's talk 👋"
 ```
 
 </td>
