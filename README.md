@@ -7,7 +7,7 @@
 <!-- ── HERO BANNER (auto-switches with GitHub light / dark theme) ── -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:1558B0,100:2EA043&height=230&section=header&text=Hemal%20Sureja&fontSize=62&fontColor=F0F6FC&fontAlignY=40&desc=I%20turn%20messy%20data%20into%20money-saving%20decisions&descAlignY=62&descSize=18&descColor=A8C8F8&animation=twinkling&stroke=58A6FF&strokeWidth=1" />
-  <img width="100%" alt="Hemal Sureja — Data Analyst & Jr. Data Scientist" src="https://capsule-render.vercel.app/api?type=venom&color=0:DDF4FF,45:58A6FF,100:2EA043&height=230&section=header&text=Hemal%20Sureja&fontSize=62&fontColor=0D1117&fontAlignY=40&desc=I%20turn%20messy%20data%20into%20money-saving%20decisions&descAlignY=62&descSize=18&descColor=0D1117&animation=twinkling" />
+  <img width="100%" alt="Hemal Sureja — Data Analyst & Data Scientist" src="https://capsule-render.vercel.app/api?type=venom&color=0:DDF4FF,45:58A6FF,100:2EA043&height=230&section=header&text=Hemal%20Sureja&fontSize=62&fontColor=0D1117&fontAlignY=40&desc=I%20turn%20messy%20data%20into%20money-saving%20decisions&descAlignY=62&descSize=18&descColor=0D1117&animation=twinkling" />
 </picture>
 
 <div align="center">
